@@ -32,11 +32,7 @@ Page 2: Retailer & Sales Channel Analysis
 - Excel (for data source)
 
  📁 Project Goal:
-To provide key business stakeholders with actionable insights into sales trends, regional performance, and product profitability — helping drive smarter business decisions.
-
-
- 📷 Screenshots:
-Include visuals of both pages for better context (you can add the dashboard images here).
+To provide key business stakeholders with actionable insights into sales trends, regional performance, and product profitability — helping drive smarter business decisions
 
 
 📎 Tags:
